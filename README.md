@@ -5,7 +5,7 @@ An end-to-end real-time object detection and analytics solution designed for ret
 ---
 
 🎬 Demo
-👉 [Live Demo Link Here](https://drive.google.com/file/d/1z2zf6EkXgvJe2aKkuMXhUSh0XEbji0cq/view?usp=drive_link)
+👉 [Live Demo Link Here](https://drive.google.com/file/d/1tFQn7Y0Arn5POv6pWIMm8aNtAkQTiq7u/view?usp=sharing)
 
 ---
 
