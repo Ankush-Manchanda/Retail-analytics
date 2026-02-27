@@ -4,6 +4,11 @@ An end-to-end real-time object detection and analytics solution designed for ret
 
 ---
 
+🎬 Demo
+👉 [Live Demo Link Here](https://drive.google.com/file/d/1z2zf6EkXgvJe2aKkuMXhUSh0XEbji0cq/view?usp=drive_link)
+
+---
+
 ## 🚀 Features
 
 - 📸 Image, Video, and Real-Time Webcam Input
